@@ -1,0 +1,9 @@
+GymPulse/tooling/
+build/
+*.class
+*.jar
+*.log
+.classpath
+.project
+.settings/
+cookies.txt
